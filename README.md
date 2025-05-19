@@ -12,7 +12,7 @@
 - 💊 **Medify App** – A cross-platform **React Native** app that helps users manage their medications. Utilizes OCR to scan drug labels, checks for drug interactions using an external API, and uses GPS to locate nearby pharmacies within a user-defined radius. Built with Expo, Google Cloud Vision, and Maps API.  
 - 💰 **Expense Tracker App** – Developed using **Flutter**, **Firebase**, and **BLoC**, this app tracks user expenses and income in real time. Includes pagination for large datasets and a clean UI optimized for performance and scalability on both Android and iOS.  
 - 📚 **BookStore Platform** – A responsive MERN stack application featuring **MongoDB**, **Express.js**, **React.js**, and **Node.js**. Implements secure full-stack CRUD operations, intuitive navigation, and a lightweight UI with **Tailwind CSS**, resulting in a 25% increase in user retention during testing.  
-- 🎵 **Music Genre Classifier** – A machine learning pipeline using **TensorFlow/Keras** to classify music tracks into genres. Converts audio files into spectrograms, feeds them into a CNN, and achieves high accuracy across multiple genres using data augmentation and model tuning.
+- 🎵 **Music Genre Classifier** – A deep learning pipeline built with **PyTorch** that classifies music clips into genres. Audio files are sliced into 3-second segments, converted to Mel spectrograms using **Librosa**, and fed into a CNN model. Includes padding, resizing, and data augmentation for improved accuracy.
 
 
 <br>🌱 **Currently Learning:**  
