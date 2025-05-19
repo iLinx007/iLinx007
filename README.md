@@ -8,11 +8,12 @@
 - 🧪 Exploring the use of **LLMs and graph-based UI analysis** to automatically generate Android UI tests for robust mobile software QA (capstone project).  
 
 <br>🚀 **Notable Projects:**  
-- 🗺️ **CDC WebmapApp** – A geospatial mobile and web tool using Go, PostGIS, and AWS S3 to help 500+ farmers map land boundaries offline.  
-- 💊 **Medify App** – A React Native app with OCR and GPS to manage medications and find nearby pharmacies.  
-- 💰 **Expense Tracker App** – A Flutter app with Firebase and BLoC for efficient personal finance tracking and smooth scalability.  
-- 📚 **BookStore Platform** – Full-stack MERN application with Tailwind for responsive UI and React Hooks for state control.  
-- 🎵 **Music Genre Classifier** – CNN-based classification model using spectrograms in TensorFlow/Keras.
+- 🗺️ **CDC WebmapApp** – A full-stack geospatial mapping tool built with **Go**, **PostGIS**, and **AWS S3**, designed to help over 500 farmers across Africa resolve land boundary disputes. Supports both web and mobile platforms with offline GPS capabilities, enabling access even in remote rural areas.  
+- 💊 **Medify App** – A cross-platform **React Native** app that helps users manage their medications. Utilizes OCR to scan drug labels, checks for drug interactions using an external API, and uses GPS to locate nearby pharmacies within a user-defined radius. Built with Expo, Google Cloud Vision, and Maps API.  
+- 💰 **Expense Tracker App** – Developed using **Flutter**, **Firebase**, and **BLoC**, this app tracks user expenses and income in real time. Includes pagination for large datasets and a clean UI optimized for performance and scalability on both Android and iOS.  
+- 📚 **BookStore Platform** – A responsive MERN stack application featuring **MongoDB**, **Express.js**, **React.js**, and **Node.js**. Implements secure full-stack CRUD operations, intuitive navigation, and a lightweight UI with **Tailwind CSS**, resulting in a 25% increase in user retention during testing.  
+- 🎵 **Music Genre Classifier** – A machine learning pipeline using **TensorFlow/Keras** to classify music tracks into genres. Converts audio files into spectrograms, feeds them into a CNN, and achieves high accuracy across multiple genres using data augmentation and model tuning.
+
 
 <br>🌱 **Currently Learning:**  
 - Distributed systems, automated mobile testing, performance optimization, and end-to-end CI/CD pipelines.
