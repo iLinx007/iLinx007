@@ -6,7 +6,6 @@
 - 📱 Mobile developer experienced in **Flutter/Dart** and **React Native**, integrating OCR, GPS, and cloud tools for robust cross-platform applications.  
 - 🧠 Research Assistant at NYUAD's **Center for Technology and Economic Development**, delivering blockchain-integrated and geospatial tools for Africa-focused initiatives.  
 - 🧪 Exploring the use of **LLMs and graph-based UI analysis** to automatically generate Android UI tests for robust mobile software QA (capstone project).  
-- 🎓 Interned at **Buzz Mobility** and assisted engineering efforts at **NYU Africa House**, improving mobile payments and real-time data pipelines.
 
 <br>🚀 **Notable Projects:**  
 - 🗺️ **CDC WebmapApp** – A geospatial mobile and web tool using Go, PostGIS, and AWS S3 to help 500+ farmers map land boundaries offline.  
